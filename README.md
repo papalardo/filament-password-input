@@ -11,6 +11,9 @@ Install via composer:
 composer require papalardo/filament-password-input
 ```
 
+## Result
+![Docs result](docs/result.png)
+
 ## Usage
 
 ```php
