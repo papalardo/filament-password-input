@@ -57,6 +57,7 @@
 
             <span @click="(show = !show)"
                   class="absolute right-0 top-0 bottom-0 pr-3.5 inline-flex items-center text-gray-400 cursor-pointer"
+                  x-cloak
             >
                 <x-heroicon-o-eye x-show="!show" class="h-5 w-5"></x-heroicon-o-eye>
                 <x-heroicon-o-eye-off x-show="show" class="h-5 w-5"></x-heroicon-o-eye-off>
